@@ -1,0 +1,9 @@
+/* Base styling for fields and controls */
+
+.metadata-form {
+    margin-bottom: 20px; /* Matches .postbox, .stuffbox classes */
+}
+
+.metadata-field-wrapper {
+    margin: 0 0 8px;
+}

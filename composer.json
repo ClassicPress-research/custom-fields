@@ -1,0 +1,27 @@
+{
+  "name": "ClassicPress-research/custom-fields",
+  "type": "wordpress-plugin",
+  "license": "GPLv2",
+  "description": "An API for building admin form UI for ClassicPress content types (post types, users, comments, settings options, etc.).",
+  "homepage": "https://github.com/ClassicPress-research/custom-fields",
+  "authors": [
+    {
+      "name": "ClassicPress",
+      "email": "jnylen@gmail.com",
+      "homepage": "https://github.com/ClassicPress-research"
+    },
+    {
+      "name": "Mike Schinkel",
+      "email": "mike@newclarity.net",
+      "homepage": "https://about.me/mikeschinkel"
+    }
+  ],
+  "support": {
+	"issues" : "https://github.com/ClassicPress-research/custom-fields/issues",
+    "source" : "https://github.com/ClassicPress-research/custom-fields"
+  },
+  "require": {
+    "php": ">=5.6",
+    "composer/installers": "*",
+  }
+}
